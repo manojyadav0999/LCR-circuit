@@ -19,14 +19,6 @@ This project demonstrates the working of an **LCR (Inductor-Capacitor-Resistor)*
 - **Phase Shift**: The lag or lead between voltage and current waveforms.
 - **Energy Exchange**: Between capacitor and inductor in oscillating circuits.
 
-## 🔗 Simulation Link
-
-[👉 Click here to view the circuit](https://tinyurl.com/2xxajh8p)
-
-This link opens the circuit in the **Falstad Circuit Simulator**, where you can:
-- Adjust values of L, C, and R.
-- Change AC source frequency.
-- Observe waveform behavior.
 
 ## 🎯 Learning Outcomes
 
@@ -40,9 +32,6 @@ This link opens the circuit in the **Falstad Circuit Simulator**, where you can:
 - Observe voltage across each component at different frequencies.
 - See how the **phase angle** between voltage and current changes.
 
-## 📜 License
-
-This README is open-source under MIT License. You may reuse or modify it for educational purposes.
 
 
 
